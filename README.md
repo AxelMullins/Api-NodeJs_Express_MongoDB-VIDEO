@@ -3,7 +3,7 @@
 ## Descripción General
 - Tutorial básico para comprender los conceptos básicos de funcionamiento e inicialización de un proyecto.
 
-[![Node Js - Express - MongoDB](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/hZWBT0Rkzls)
+[![Node Js - Express - MongoDB](https://raw.githubusercontent.com/AxelMullins/Api-NodeJs_Express_MongoDB-VIDEO/main/public/images/imgPortada.jpeg)](https://youtu.be/hZWBT0Rkzls)
 
 ## Comandos
 - `npm run start` node
